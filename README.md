@@ -19,5 +19,3 @@ This project is licensed under the MIT License.
 
 # Acknowledgments
 The Unsplash API for providing access to a vast collection of high-quality images.
-
-The open-source community for inspiration and valuable resources.
