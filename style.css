@@ -1,0 +1,62 @@
+/*https://fonts.google.com/*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    /*For Backup, If The Google Front Not Working*/
+    font-family: Bebas Neue, sans-serif; 
+    /*Little Bit Easier On The Eyes*/
+    background: whitesmoke; 
+}
+
+h1{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+/*Loader*/
+.loader{
+    /*Don't Want It To Move, even If The User Scrolling Through The Page*/
+    position: fixed;
+    /*A Little Trick To Extend Entire Page*/
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+/*Targeting A Image That Is A Child Of A Class Loader*/
+.loader img{
+    /*Want To Stay On Center, Even If The Person Is Scrolling*/
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*Image Container*/
+.image-container{
+    margin: 10px;
+}
+
+.image-container img{
+    width: 100%;
+}
+
+/*Media Query: Large Smartphone*/
+@media screen and (max-width: 600px){
+    h1{
+        font-size: 20px;
+    }
+    .image-container{
+        margin: 10px;
+    }
+}
+
