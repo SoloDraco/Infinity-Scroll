@@ -3,8 +3,14 @@ A web-based project that displays a gallery of images sourced from the popular w
 
 Features
 Browse and view a collection of stunning images sourced from Unsplash.
+
 Infinite scroll functionality for seamless browsing.
+
 Click on an image to view it in full size.
+
 Image details including title, author, and description.
+
 Search functionality to find images based on keywords or categories.
+
 Responsive design for optimal viewing on different devices.
+
