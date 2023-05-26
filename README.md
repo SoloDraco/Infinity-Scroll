@@ -14,3 +14,10 @@ A web-based project that displays a gallery of images sourced from the popular w
 
   Responsive design for optimal viewing on different devices.
 
+# License
+This project is licensed under the MIT License.
+
+# Acknowledgments
+The Unsplash API for providing access to a vast collection of high-quality images.
+
+The open-source community for inspiration and valuable resources.
