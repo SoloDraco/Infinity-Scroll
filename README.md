@@ -1,5 +1,6 @@
 # Infinity-Scroll
 A web-based project that displays a gallery of images sourced from the popular website Unsplash. This project allows users to view and explore a curated collection of high-quality images from various photographers and categories.
+![Screenshot from 2023-05-27 20-37-15](https://github.com/SoloDraco/Infinity-Scroll/assets/99818483/ee38bc62-d7b6-4654-85e0-56db8bf67bab)
 
 ## Features
   - Browse and view a collection of stunning images sourced from Unsplash.
